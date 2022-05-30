@@ -1,0 +1,30 @@
+﻿  web_graph.cpp
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(64,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(65,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(69,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(86,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(87,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(105,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(106,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(121,9): warning C4551: function call missing argument list
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(141,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(173,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(225,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(237,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(242,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(243,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(249,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(250,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(256,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(258,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(266,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(268,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(282,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(290,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(345,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(357,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(373,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(375,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(402,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\web_graph.cpp(404,27): warning C4018: '<': signed/unsigned mismatch
+  Analysis and Design Lab Proj. - Search Engine.vcxproj -> C:\Users\maya3\Desktop\CSCE 2203\Lab\Analysis and Design Lab Proj. - Search Engine\Debug\Analysis and Design Lab Proj. - Search Engine.exe
